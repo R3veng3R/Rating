@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rating</string>
+
+    <string name="addRate">Add Rate</string>
+    <string name="clearCurRate">Clear Current Rate</string>
+    <string name="clearAllRate">Clear All Rate</string>
+    <string name="action_settings">Settings</string>
+</resources>
